@@ -1,0 +1,5 @@
+{
+  "/syntax/page": "app/syntax/page.js",
+  "/examples/page": "app/examples/page.js",
+  "/tools/page": "app/tools/page.js"
+}
